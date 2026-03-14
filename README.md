@@ -19,7 +19,5 @@ React, TypeScript, GSAP, ThreeJS, WebGL, HTML, CSS, JavaScript
 GSAP is now fully free! Update `gsap-trial` imports to `gsap` before hosting.
 See: https://gsap.com/docs/v3/Installation/
 
-![Portfolio-Preview](public/images/preview.png)
-
 ## License
 MIT License — open source and free to use.
